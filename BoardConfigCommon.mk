@@ -52,7 +52,7 @@ USE_DEVICE_SPECIFIC_GPS := true
 USE_DEVICE_SPECIFIC_LOC_API := true
 
 # ANT+
-BOARD_ANT_WIRELESS_DEVICE := "qualcomm-uart"
+BOARD_ANT_WIRELESS_DEVICE := "qualcomm-smd"
 
 # Audio
 BOARD_USES_ALSA_AUDIO := true
