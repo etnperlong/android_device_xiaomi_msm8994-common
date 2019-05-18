@@ -9,6 +9,6 @@
     "remote": "github",
     "repository": "etnperlong/android_vendor_xiaomi_msm8994-common",
     "target_path": "vendor/xiaomi/msm8994-common".
-    "revision": "lineage-16.0"
+    "revision": "dot-p"
   }
 ]
